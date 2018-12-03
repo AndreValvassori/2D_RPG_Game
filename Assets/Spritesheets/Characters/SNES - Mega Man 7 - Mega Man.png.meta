@@ -1,0 +1,4919 @@
+fileFormatVersion: 2
+guid: 1c416084bdba54e47ab3fc074f572868
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES - Mega Man 7 - Mega Man_0
+    21300002: SNES - Mega Man 7 - Mega Man_1
+    21300004: SNES - Mega Man 7 - Mega Man_2
+    21300006: SNES - Mega Man 7 - Mega Man_3
+    21300008: SNES - Mega Man 7 - Mega Man_4
+    21300010: SNES - Mega Man 7 - Mega Man_5
+    21300012: SNES - Mega Man 7 - Mega Man_6
+    21300014: SNES - Mega Man 7 - Mega Man_7
+    21300016: SNES - Mega Man 7 - Mega Man_8
+    21300018: SNES - Mega Man 7 - Mega Man_9
+    21300020: SNES - Mega Man 7 - Mega Man_10
+    21300022: SNES - Mega Man 7 - Mega Man_11
+    21300024: SNES - Mega Man 7 - Mega Man_12
+    21300026: SNES - Mega Man 7 - Mega Man_13
+    21300028: SNES - Mega Man 7 - Mega Man_14
+    21300030: SNES - Mega Man 7 - Mega Man_15
+    21300032: SNES - Mega Man 7 - Mega Man_16
+    21300034: SNES - Mega Man 7 - Mega Man_17
+    21300036: SNES - Mega Man 7 - Mega Man_18
+    21300038: SNES - Mega Man 7 - Mega Man_19
+    21300040: SNES - Mega Man 7 - Mega Man_20
+    21300042: SNES - Mega Man 7 - Mega Man_21
+    21300044: SNES - Mega Man 7 - Mega Man_22
+    21300046: SNES - Mega Man 7 - Mega Man_23
+    21300048: SNES - Mega Man 7 - Mega Man_24
+    21300050: SNES - Mega Man 7 - Mega Man_25
+    21300052: SNES - Mega Man 7 - Mega Man_26
+    21300054: SNES - Mega Man 7 - Mega Man_27
+    21300056: SNES - Mega Man 7 - Mega Man_28
+    21300058: SNES - Mega Man 7 - Mega Man_29
+    21300060: SNES - Mega Man 7 - Mega Man_30
+    21300062: SNES - Mega Man 7 - Mega Man_31
+    21300064: SNES - Mega Man 7 - Mega Man_32
+    21300066: SNES - Mega Man 7 - Mega Man_33
+    21300068: SNES - Mega Man 7 - Mega Man_34
+    21300070: SNES - Mega Man 7 - Mega Man_35
+    21300072: SNES - Mega Man 7 - Mega Man_36
+    21300074: SNES - Mega Man 7 - Mega Man_37
+    21300076: SNES - Mega Man 7 - Mega Man_38
+    21300078: SNES - Mega Man 7 - Mega Man_39
+    21300080: SNES - Mega Man 7 - Mega Man_40
+    21300082: SNES - Mega Man 7 - Mega Man_41
+    21300084: SNES - Mega Man 7 - Mega Man_42
+    21300086: SNES - Mega Man 7 - Mega Man_43
+    21300088: SNES - Mega Man 7 - Mega Man_44
+    21300090: SNES - Mega Man 7 - Mega Man_45
+    21300092: SNES - Mega Man 7 - Mega Man_46
+    21300094: SNES - Mega Man 7 - Mega Man_47
+    21300096: SNES - Mega Man 7 - Mega Man_48
+    21300098: SNES - Mega Man 7 - Mega Man_49
+    21300100: SNES - Mega Man 7 - Mega Man_50
+    21300102: SNES - Mega Man 7 - Mega Man_51
+    21300104: SNES - Mega Man 7 - Mega Man_52
+    21300106: SNES - Mega Man 7 - Mega Man_53
+    21300108: SNES - Mega Man 7 - Mega Man_54
+    21300110: SNES - Mega Man 7 - Mega Man_55
+    21300112: SNES - Mega Man 7 - Mega Man_56
+    21300114: SNES - Mega Man 7 - Mega Man_57
+    21300116: SNES - Mega Man 7 - Mega Man_58
+    21300118: SNES - Mega Man 7 - Mega Man_59
+    21300120: SNES - Mega Man 7 - Mega Man_60
+    21300122: SNES - Mega Man 7 - Mega Man_61
+    21300124: SNES - Mega Man 7 - Mega Man_62
+    21300126: SNES - Mega Man 7 - Mega Man_63
+    21300128: SNES - Mega Man 7 - Mega Man_64
+    21300130: SNES - Mega Man 7 - Mega Man_65
+    21300132: SNES - Mega Man 7 - Mega Man_66
+    21300134: SNES - Mega Man 7 - Mega Man_67
+    21300136: SNES - Mega Man 7 - Mega Man_68
+    21300138: SNES - Mega Man 7 - Mega Man_69
+    21300140: SNES - Mega Man 7 - Mega Man_70
+    21300142: SNES - Mega Man 7 - Mega Man_71
+    21300144: SNES - Mega Man 7 - Mega Man_72
+    21300146: SNES - Mega Man 7 - Mega Man_73
+    21300148: SNES - Mega Man 7 - Mega Man_74
+    21300150: SNES - Mega Man 7 - Mega Man_75
+    21300152: SNES - Mega Man 7 - Mega Man_76
+    21300154: SNES - Mega Man 7 - Mega Man_77
+    21300156: SNES - Mega Man 7 - Mega Man_78
+    21300158: SNES - Mega Man 7 - Mega Man_79
+    21300160: SNES - Mega Man 7 - Mega Man_80
+    21300162: SNES - Mega Man 7 - Mega Man_81
+    21300164: SNES - Mega Man 7 - Mega Man_82
+    21300166: SNES - Mega Man 7 - Mega Man_83
+    21300168: SNES - Mega Man 7 - Mega Man_84
+    21300170: SNES - Mega Man 7 - Mega Man_85
+    21300172: SNES - Mega Man 7 - Mega Man_86
+    21300174: SNES - Mega Man 7 - Mega Man_87
+    21300176: SNES - Mega Man 7 - Mega Man_88
+    21300178: SNES - Mega Man 7 - Mega Man_89
+    21300180: SNES - Mega Man 7 - Mega Man_90
+    21300182: SNES - Mega Man 7 - Mega Man_91
+    21300184: SNES - Mega Man 7 - Mega Man_92
+    21300186: SNES - Mega Man 7 - Mega Man_93
+    21300188: SNES - Mega Man 7 - Mega Man_94
+    21300190: SNES - Mega Man 7 - Mega Man_95
+    21300192: SNES - Mega Man 7 - Mega Man_96
+    21300194: SNES - Mega Man 7 - Mega Man_97
+    21300196: SNES - Mega Man 7 - Mega Man_98
+    21300198: SNES - Mega Man 7 - Mega Man_99
+    21300200: SNES - Mega Man 7 - Mega Man_100
+    21300202: SNES - Mega Man 7 - Mega Man_101
+    21300204: SNES - Mega Man 7 - Mega Man_102
+    21300206: SNES - Mega Man 7 - Mega Man_103
+    21300208: SNES - Mega Man 7 - Mega Man_104
+    21300210: SNES - Mega Man 7 - Mega Man_105
+    21300212: SNES - Mega Man 7 - Mega Man_106
+    21300214: SNES - Mega Man 7 - Mega Man_107
+    21300216: SNES - Mega Man 7 - Mega Man_108
+    21300218: SNES - Mega Man 7 - Mega Man_109
+    21300220: SNES - Mega Man 7 - Mega Man_110
+    21300222: SNES - Mega Man 7 - Mega Man_111
+    21300224: SNES - Mega Man 7 - Mega Man_112
+    21300226: SNES - Mega Man 7 - Mega Man_113
+    21300228: SNES - Mega Man 7 - Mega Man_114
+    21300230: SNES - Mega Man 7 - Mega Man_115
+    21300232: SNES - Mega Man 7 - Mega Man_116
+    21300234: SNES - Mega Man 7 - Mega Man_117
+    21300236: SNES - Mega Man 7 - Mega Man_118
+    21300238: SNES - Mega Man 7 - Mega Man_119
+    21300240: SNES - Mega Man 7 - Mega Man_120
+    21300242: SNES - Mega Man 7 - Mega Man_121
+    21300244: SNES - Mega Man 7 - Mega Man_122
+    21300246: SNES - Mega Man 7 - Mega Man_123
+    21300248: SNES - Mega Man 7 - Mega Man_124
+    21300250: SNES - Mega Man 7 - Mega Man_125
+    21300252: SNES - Mega Man 7 - Mega Man_126
+    21300254: SNES - Mega Man 7 - Mega Man_127
+    21300256: SNES - Mega Man 7 - Mega Man_128
+    21300258: SNES - Mega Man 7 - Mega Man_129
+    21300260: SNES - Mega Man 7 - Mega Man_130
+    21300262: SNES - Mega Man 7 - Mega Man_131
+    21300264: SNES - Mega Man 7 - Mega Man_132
+    21300266: SNES - Mega Man 7 - Mega Man_133
+    21300268: SNES - Mega Man 7 - Mega Man_134
+    21300270: SNES - Mega Man 7 - Mega Man_135
+    21300272: SNES - Mega Man 7 - Mega Man_136
+    21300274: SNES - Mega Man 7 - Mega Man_137
+    21300276: SNES - Mega Man 7 - Mega Man_138
+    21300278: SNES - Mega Man 7 - Mega Man_139
+    21300280: SNES - Mega Man 7 - Mega Man_140
+    21300282: SNES - Mega Man 7 - Mega Man_141
+    21300284: SNES - Mega Man 7 - Mega Man_142
+    21300286: SNES - Mega Man 7 - Mega Man_143
+    21300288: SNES - Mega Man 7 - Mega Man_144
+    21300290: SNES - Mega Man 7 - Mega Man_145
+    21300292: SNES - Mega Man 7 - Mega Man_146
+    21300294: SNES - Mega Man 7 - Mega Man_147
+    21300296: SNES - Mega Man 7 - Mega Man_148
+    21300298: SNES - Mega Man 7 - Mega Man_149
+    21300300: SNES - Mega Man 7 - Mega Man_150
+    21300302: SNES - Mega Man 7 - Mega Man_151
+    21300304: SNES - Mega Man 7 - Mega Man_152
+    21300306: SNES - Mega Man 7 - Mega Man_153
+    21300308: SNES - Mega Man 7 - Mega Man_154
+    21300310: SNES - Mega Man 7 - Mega Man_155
+    21300312: SNES - Mega Man 7 - Mega Man_156
+    21300314: SNES - Mega Man 7 - Mega Man_157
+    21300316: SNES - Mega Man 7 - Mega Man_158
+    21300318: SNES - Mega Man 7 - Mega Man_159
+    21300320: SNES - Mega Man 7 - Mega Man_160
+    21300322: SNES - Mega Man 7 - Mega Man_161
+    21300324: SNES - Mega Man 7 - Mega Man_162
+    21300326: SNES - Mega Man 7 - Mega Man_163
+    21300328: SNES - Mega Man 7 - Mega Man_164
+    21300330: SNES - Mega Man 7 - Mega Man_165
+    21300332: SNES - Mega Man 7 - Mega Man_166
+    21300334: SNES - Mega Man 7 - Mega Man_167
+    21300336: SNES - Mega Man 7 - Mega Man_168
+    21300338: SNES - Mega Man 7 - Mega Man_169
+    21300340: SNES - Mega Man 7 - Mega Man_170
+    21300342: SNES - Mega Man 7 - Mega Man_171
+    21300344: SNES - Mega Man 7 - Mega Man_172
+    21300346: SNES - Mega Man 7 - Mega Man_173
+    21300348: SNES - Mega Man 7 - Mega Man_174
+    21300350: SNES - Mega Man 7 - Mega Man_175
+    21300352: SNES - Mega Man 7 - Mega Man_176
+    21300354: SNES - Mega Man 7 - Mega Man_177
+    21300356: SNES - Mega Man 7 - Mega Man_178
+    21300358: SNES - Mega Man 7 - Mega Man_179
+    21300360: SNES - Mega Man 7 - Mega Man_180
+    21300362: SNES - Mega Man 7 - Mega Man_181
+    21300364: SNES - Mega Man 7 - Mega Man_182
+    21300366: SNES - Mega Man 7 - Mega Man_183
+    21300368: SNES - Mega Man 7 - Mega Man_184
+    21300370: SNES - Mega Man 7 - Mega Man_185
+    21300372: SNES - Mega Man 7 - Mega Man_186
+    21300374: SNES - Mega Man 7 - Mega Man_187
+    21300376: SNES - Mega Man 7 - Mega Man_188
+    21300378: SNES - Mega Man 7 - Mega Man_189
+    21300380: SNES - Mega Man 7 - Mega Man_190
+    21300382: SNES - Mega Man 7 - Mega Man_191
+    21300384: SNES - Mega Man 7 - Mega Man_192
+    21300386: SNES - Mega Man 7 - Mega Man_193
+    21300388: SNES - Mega Man 7 - Mega Man_194
+    21300390: SNES - Mega Man 7 - Mega Man_195
+    21300392: SNES - Mega Man 7 - Mega Man_196
+    21300394: SNES - Mega Man 7 - Mega Man_197
+    21300396: SNES - Mega Man 7 - Mega Man_198
+    21300398: SNES - Mega Man 7 - Mega Man_199
+    21300400: SNES - Mega Man 7 - Mega Man_200
+    21300402: SNES - Mega Man 7 - Mega Man_201
+    21300404: SNES - Mega Man 7 - Mega Man_202
+    21300406: SNES - Mega Man 7 - Mega Man_203
+    21300408: SNES - Mega Man 7 - Mega Man_204
+    21300410: SNES - Mega Man 7 - Mega Man_205
+    21300412: SNES - Mega Man 7 - Mega Man_206
+    21300414: SNES - Mega Man 7 - Mega Man_207
+    21300416: SNES - Mega Man 7 - Mega Man_208
+    21300418: SNES - Mega Man 7 - Mega Man_209
+    21300420: SNES - Mega Man 7 - Mega Man_210
+    21300422: SNES - Mega Man 7 - Mega Man_211
+    21300424: SNES - Mega Man 7 - Mega Man_212
+    21300426: SNES - Mega Man 7 - Mega Man_213
+    21300428: SNES - Mega Man 7 - Mega Man_214
+    21300430: SNES - Mega Man 7 - Mega Man_215
+    21300432: SNES - Mega Man 7 - Mega Man_216
+    21300434: SNES - Mega Man 7 - Mega Man_217
+    21300436: SNES - Mega Man 7 - Mega Man_218
+    21300438: SNES - Mega Man 7 - Mega Man_219
+    21300440: SNES - Mega Man 7 - Mega Man_220
+    21300442: SNES - Mega Man 7 - Mega Man_221
+    21300444: SNES - Mega Man 7 - Mega Man_222
+    21300446: SNES - Mega Man 7 - Mega Man_223
+    21300448: SNES - Mega Man 7 - Mega Man_224
+    21300450: SNES - Mega Man 7 - Mega Man_225
+    21300452: SNES - Mega Man 7 - Mega Man_226
+    21300454: SNES - Mega Man 7 - Mega Man_227
+    21300456: SNES - Mega Man 7 - Mega Man_228
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 357
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8742f7848d10944a34414d942d033d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 357
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aa3a5ade6a45e4e9ce0534bd72163e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 357
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6c0ff9484f26143a759c5277748279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 357
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c822a94b7936984ca0a698b86a89e6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 357
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f5a36bc76b615409877c231b5e4241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 357
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4821e3cc522074bbfbb2e7f2ebbd0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 357
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77e934943aa8324a9c9882929741529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 357
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f48f9c7b735d084d8a3939869b1d1bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 357
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e49d61e02f5e04da9dc8c868dcbc56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 357
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931686b3b294c3d40aa5159646de31d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 357
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92333d0e90c14649964dadee9d5f7df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 357
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ffddbd57ae5c540b2b3c808eb74934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 357
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6432d4d4839e74fa418bf14617e422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 357
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b22f59877e7f9e4c87da218b1b0312f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 357
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bae2cf73ced60d47940a6c840a96c68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 357
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6737ca19bd7b88247a42f32ebdd8cf71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_16
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 357
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33eeb2e94bf0b447abd25fdf5814298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_17
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 357
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3c24fc9b176dc49996c1d9caed27ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_18
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 357
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720a65b391ebbeb47955255f6e86c8cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_19
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 357
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804af13a2866d5b4a98a0be3ca5eebd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_20
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 357
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca5a84f8dad57d43be40929676aab9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_21
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 357
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3098453a489d67f4eb62ab059ba58268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_22
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 357
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46128ebc604af3e44a87395c1c41ee0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_23
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 357
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2a807b0043c4c4599c647d3a4b05ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 301
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5637adb62879d8448d7ad99e4ed03f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 301
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc59019027aa9fc4298ed0609137b4db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 301
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde58cb4f5e1e3d4292b9f5954866771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 301
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28e2eda9519f86418cb8ffb9d55bdb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 301
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1440605c18d7ec74bbb7fcad17619604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 302
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242fb7958a08ada42afd0900cb2cc471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_30
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 301
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50be30f79322f3c4da063bfd8e5147e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 301
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc3c06273afaa34ab0f515d595d5ec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_32
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 301
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4823081e0287b904da042cc6d471fd5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_33
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 301
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0629cac86f89f44ac6069997691622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_34
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 301
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feac6c50727bffb40aee887e02f8d426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_35
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 301
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd983f43a7c53d344808db2f30bf5cc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_36
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 301
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cff7ac4ac7c524bbe408e7be56b1d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_37
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 301
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e541b5f5eb48ab34e93414a3f640fd18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_38
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 301
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b17e7eeafe6c10459d384bd9caf51ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_39
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 301
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36916998fd13994fbc1d8deae6b3388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_40
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 301
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffefd67f555ba61488b2879ef01a4cc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_41
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 301
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72984d3f56616c44c8234d749fc21bf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_42
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 301
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14abf5e5c3dd5184982c688eb329bdbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_43
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 301
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8301506a880afa42860b38d242edbf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_44
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 301
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55436abf4de3fa4594d9562084d4b0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_45
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 301
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38605ebe76242e044bc41b097bb7a4d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_46
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 301
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f115ba7f5dc384e82df4d13c9baeda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_47
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 301
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edda6cb48a031441a68009b9ccf1afa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 239
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77efc1653e5bc404ea81b89acb2fbf0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 239
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9df442d76d6c64fb974dde154fe723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 239
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad060b6f070d9545a2e88d5ce7b6472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_51
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 239
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3528007104d2794695d2d39754e277b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_52
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 239
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479ae04a1bb0e2c49b4ef2d1d13640bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_53
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 240
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a01de24bcd326469351ddc51698b92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_54
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 239
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010fa1edd91f3d64cb26a00b84947c26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_55
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 239
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42910450ae7020d45bd0ff5f28705756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_56
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 239
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb98950e77236364a8b2837026b2d9fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_57
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 239
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab767cbff9aac04a89a27ca962bc0a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_58
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 239
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83836627344605419f9b88516e4a8b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_59
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 251
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d592d159c1ccc9c4fbdd4d16241a1623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_60
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 239
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bf3fc6725d31246949563f6d54bb10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_61
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 239
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbf474561add7a4383573e8036b5edb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_62
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 239
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4940d5a13304aea4ab057c5ae6d3bcc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_63
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 239
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a7842dfd5436249bde26ddc8787c8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_64
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 239
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290f8083cfaed2745b31eca927f5891f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_65
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 239
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6baf79ed06d2e48bc4b2e972bd76ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_66
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 239
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21c9df66ec04214a82d957499e6f2f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_67
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 239
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c96b8d9883dae841b61566930752760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_68
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 239
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb1e6d1e1416364889ff32890fcb96d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_69
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 239
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f36ccd819c002046915486c8efe7187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_70
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 239
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdaf4b6c8392e048965c0a58e154cda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_71
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 240
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae38e6f67e0538d48ac5cbfdadafe7aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_72
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 239
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8decca1ee09a9dc4bbfa4a6431d7f74c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_73
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 239
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f893d474fc504554e8ead2a8821bbe04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_74
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 239
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716f01c7341debc48bb8027f6dc2ce0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 179
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a13be674773c774f975f5e440d7d157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_76
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 179
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e958d85facf6f8b4ebc285e30e843ca6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_77
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 179
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c955175bde250bc47a90b63ebbc023b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_78
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 179
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73c2b1db6d63114cb310dce117d807a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_79
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 184
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0b88714df44d84faba459854cce970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_80
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 185
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1fd43a9ccbbc844b67b628f7885c66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_81
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 179
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22720419a0ffcda448d63e07aa6e47d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_82
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 181
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e171e6aaa66aad4da2c33161d93598f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_83
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 179
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1863817ee03360b449f6f64d6958c5f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_84
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 179
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24de692e650fd9641a2855e02dd2f8f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_85
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 179
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067f6bc38e6e32b4e862f53a301298df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_86
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 179
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78c8162a1097744889b49a7ca8e97c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_87
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 186
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bec84cc98f52264281ff77ce0622eef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_88
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 179
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce3305daed9e5141bd7125da69a9a42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_89
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 183
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98686dd11640284b8222c06e4fffcf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_90
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 183
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1847955729ba9e94c9631c51ac56aeaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_91
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 179
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bbb0e8e8df99549bf06167d9852c23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_92
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 187
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e21c8d0cd688e74f81de28ccb3f7d7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_93
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 187
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cb804cb74bea142ade930f3ad3b7a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_94
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 182
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2013c205b525b946a214f1c43036649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_95
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 179
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f66eeb58f464a43877ca38c1754d4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_96
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 179
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159d11ce4759c0841940a748eb269d84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_97
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 179
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74b27d378569a24599fa80a463257bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_98
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 179
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740b73cdab16fa14fa1a1f63eb53375c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_99
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 181
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0583abd884e06434da8f80457df5184e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 124
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0df0bf5f5b672b4a995ee3089725049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_101
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 124
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6665a9b2082088d40b37bb1b430222cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_102
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 124
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203ca7c13142d2e43bf8d650de4d585e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_103
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 124
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc0bc48cc3a703489acb969bd33f8d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_104
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 124
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d627aff369a38ea40b29f1ce26b31c3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_105
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 124
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5388efab941ae9441863ed90aa4f19d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_106
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 124
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e0898f74fd55a43930050c804987fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_107
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 124
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce099bfa9dca3f4ca9748b77dd2b4e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_108
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 124
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a9683ac30349e42a82e2d7d4cd0e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_109
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 124
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8d62251068ffb479b643e8fe26ef86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_110
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 124
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cfe3a42b545984e93f0e4f115eba0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 124
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca9105254745184d84503fc9d5a88c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_112
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 124
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4479c65c065bff445966d03447871a00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_113
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 124
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05956718e12909d49a93fa40b6f232ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_114
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 124
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4068f99876297954399875ce156f9553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_115
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 124
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f90af72740ce424ab3be85b2bea7855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_116
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 124
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332227dacd1b25a4c964d90f332d69d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_117
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 124
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36a3d45ebbb1944ea5da8b56438d433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 124
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cf5069096d1d5429594be7e5400e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_119
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 124
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72975f65bd00a2b49a333e99e7b5cb1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_120
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 124
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed491841328caf4dbb8de8da7cb4e77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_121
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 124
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816e5668f4b2633438f714216d56bfe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_122
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 123
+        width: 336
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4be57e866e56f4e905b37c91113975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_123
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 109
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05413800b19531046ada05b61c822487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_124
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 109
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a466006e4cca71f408e2c8bbcec14dd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_125
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 109
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd3e4d2458ecbf45879de5e23dd702e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_126
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 109
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a5dff80e761ae4b879563398a10766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_127
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 109
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfece51bb282f246a614b797c434eb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_128
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 109
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5969eeb43e4f04a987dea27d08f2af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_129
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 92
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a3f14d64cbd204eada24329bee012c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_130
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 92
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718c0696cfab1254c883eeadd1143457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_131
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 92
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235964b48eb1aaf428157ffa0ba49fea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_132
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 92
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ca66533772e24409db9d1273dd2341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_133
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 92
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020152d21dba048458233f5e4bdbe9f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_134
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 92
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3439486b195c444991332a682cd3933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_135
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 92
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54426724bdab8114c82a51624b1a62dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_136
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 92
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fdd8ec2ef3cd94ea5bcf70de0555c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_137
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 92
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1353997b8d9f4438f2847782f2ca74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_138
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3335e2c5c5d07a942b5aeca3c6f7a2d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_139
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac347125299c2e4c9cdec6ac8a112ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_140
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 91
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25b22e3bc198b14bb7ca7b2bf90bb97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_141
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 91
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5455d1a767a4164a81a6eb6ea903453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_142
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 91
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea41b3cf5d2b7ed43b46db0c1f3be8d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_143
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 90
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b397163d4e9d5f34e94690af3d806f47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_144
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 101
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c0fa291c1923942b29ba05ae7d8206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_145
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 101
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c310fe053fed3544b8c74f09bd6f601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_146
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 101
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3d017b80c431c4a9d08aa29cb908bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_147
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 101
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a60c4e5490c37468780a93b818477e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_148
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 101
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec89eb9132fe2b458d482b7175ecc09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_149
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 39
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a39b08ffb25888479a64354be2a90f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_150
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 41
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27245c9492cc9564ebd258243e277182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_151
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2
+        width: 39
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d709264edc551429c568f5eb248b59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 37
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532ea012c50a54d48ad69cb1ee506087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_153
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2
+        width: 39
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f1d789bb4cf1e459cac3b3568f22f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_154
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 41
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990e257951e9a5b45ade7fe3c0a35eaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_155
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5d91df20452574e92fdfb8736b5285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_156
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 90
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4037266d9f38a7e4ba066b396b4cb360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_157
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a40f829156b6ee4b878b62224b8c051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_158
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 101
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd670661f0533094ba6bbf45603dfe4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_159
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 99
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1adfa05185edc844b6076c669192b87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_160
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 101
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31d34e0f2c63224496c0f995f0bcc7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_161
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca740742e00424242a69f99e9689165b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_162
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 101
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3093235210497408d1c26eeed6d749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_163
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 101
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7d26cf490a07444b26caea6b72e885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_164
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 101
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2592c539f63d8264dbdf490bdcd6d18e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_165
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 101
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e897037bcca76eb45a4d0e3036dcb882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_166
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 101
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977ea1ff4753239419be7d826eb96506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_167
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ad5ccae62ad81409d4f01cf70bd7f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_168
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 101
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab2793bd4e5ecc4ab851bccf3f644b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_169
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 99
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ffd163ba800794f9cdd90cf27b5269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_170
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 101
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a340e77d54577449351845450cae81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_171
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb550278d8d3e945aa5a428a9563508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_172
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 101
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ed4bea3f064d846be3af6fd372c4e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_173
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 101
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14ef6c4e54b29948a4433dea98852c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_174
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 101
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab53bcddd39eba45b948f8e03e93c69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_175
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 99
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa0f21098164ca41b964be5d99653ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_176
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 99
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f22f1a09580504a9abf61d16684fa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_177
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 101
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cbf4a1475129f46b3b8aafc76d1ce6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_178
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 99
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3e4d97f5695e14a909458ab62d7d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_179
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 101
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de39010edb7e0b44782e681ee45e6596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_180
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 101
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c30d882e17867a4e8723421f2107eff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_181
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 101
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e9f66dd2a6bc349ac5e51797e21d11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_182
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 101
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a037ea8ecd23f8745ae2246d82f0cf36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_183
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9949d47742321c43851d2a966cbb84b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_184
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 101
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b6c99b5b2620a4eb1251b0b3979e6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_185
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 101
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b45de6d12002a4eb6512c96f16774f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_186
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 90
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8fe27611649f349988b6fa0c667c35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_187
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 88
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c360542d8a471e44bb50ed27a07cd9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_188
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 88
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb47401eabff0784e882729c29abd444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_189
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 88
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ad3b9406868a7419ed6b9eb13678a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_190
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 88
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b7e62437a3c0a49a7783591228f229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_191
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 88
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2742edeeab069b4a9eb209aab9c5080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_192
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 88
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4e505b96bac7b4999b8dece6319e0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_193
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 88
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7975382d290a2a8479560abbb329cb2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_194
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 88
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261b69e121ee36b47a61468357005d46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_195
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 88
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9801ffc850273946a990cef30ef5df6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_196
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 88
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76284450ccdcc3419c025e399fc359a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_197
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 88
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde597c54cea78b4fad8e3f1db36d23d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_198
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 88
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a18426089afc204cbc8ad7e585dea4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_199
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 88
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee054d1a4e64da40934a92e33aa1a97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_200
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 55
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bedfbe17ac12a5439a3145a5f5d5492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_201
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 55
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e67f2d4e6c20744db8b1fcf05ac61c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_202
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 72
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f533380e8841e4ba25f171a6710085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_203
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 75
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b855a364de42db4d82011352ef688e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_204
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 75
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb18c3353fc9764b918be293c73a24c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_205
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 73
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e27124a2463bc24a9502cd0c416a922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_206
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 75
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4182ebe463dbf8040b367ea14e6258f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_207
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 75
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb20c4a4eaa1c648ae0a5d5d8dace0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_208
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 75
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3ef576830a520469bd1f4512b054aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_209
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f2e8fe0670dee418a84518972dd3ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_210
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 55
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a859db32b692fe4ba76020bebfa3671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_211
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 55
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c95d8f27f5ec2243bf41230e0bebf2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_212
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 55
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636ddbad39cb2de479893d97d5f840a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_213
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 55
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d51f59e54103e4eabf02f9f09300ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_214
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 55
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c20896bf6126fc41bf05b53107b1405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_215
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 55
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aef81cebbfdac747aa49fc284154f4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_216
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c8478a208368c49953b6827b3dc764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_217
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7541dbab2129bf4da58042ea7a51b69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_218
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82ee7dda2daa334da4597a6c13053e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_219
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f952026c220023e4bafe9b224a08d666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_220
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da97d02622f64d748ab51cd54edb2adb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_221
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 62
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbd267bc4e7bfb4b82cd51854c1fcc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_222
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 62
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c347ce1833b96d41ad066ab7fb81b17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_223
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 62
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf365a91b3991143bf44d915acc77e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_224
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd015c20ed249c478567d4c68b0524a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_225
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b25546ada4de14585e9fa4098d67e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_226
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2436905b777d1b9499c0b6f18300f581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_227
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ef3cbc7a377344986ba768adfdaf82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man 7 - Mega Man_228
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bb9569621663c46b7bd0ed43e21922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 799ed7cbff416df4486e99f9a029a8a1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
