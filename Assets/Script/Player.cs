@@ -5,6 +5,9 @@ using UnityEngine;
 public class Player : MonoBehaviour {
 
     private Rigidbody2D rb;
+	private GameObject sprite;
+	private Animator animator;
+	
 	private string direcao = "direita";
 	
 	public bool onGround = true;
@@ -12,38 +15,49 @@ public class Player : MonoBehaviour {
 	// Use this for initialization
 	void Start () {		
         rb = GetComponent<Rigidbody2D>();
+		sprite = GameObject.Find("Sprite");		
+        animator = sprite.GetComponent<Animator>();
+		
 	}
 	
 	// Update is called once per frame
 	void FixedUpdate () {
 		if (Input.GetKey("d"))
         {
-			Vector2 v2 = rb.velocity;
-			rb.velocity = new Vector2(2.0f, v2.y);
+			animator.SetBool("Run", true);
 			direcao = "direita";	
 			
-			GameObject sprite = GameObject.Find("Sprite");
 			Vector3 v3 = sprite.transform.localScale;
 			v3.x = 1;
             sprite.transform.localScale = v3;
+			
+			Vector2 v2 = rb.velocity;
+			rb.velocity = new Vector2(2.0f, v2.y);
         }
-		
+		else		
 		if (Input.GetKey("a"))
         {
-			Vector2 v2 = rb.velocity;
-			rb.velocity = new Vector2(-2.0f, v2.y);
-			direcao = "esquerda";		
+			animator.SetBool("Run", true);
 			
-			GameObject sprite = GameObject.Find("Sprite");
+			direcao = "esquerda";					
 			Vector3 v3 = sprite.transform.localScale;
 			v3.x = -1;
-            sprite.transform.localScale = v3;
+            sprite.transform.localScale = v3;	
+			
+			Vector2 v2 = rb.velocity;
+			rb.velocity = new Vector2(-2.0f, v2.y);	
         }		
+		else
+		{	
+			animator.SetBool("Run", false);			
+		}
 
 		if (Input.GetKeyDown("w"))
         {
 			if(onGround)
-			{	
+			{					
+				animator.SetTrigger("Jump");
+				
 				Vector2 v2 = rb.velocity;
 				rb.velocity = new Vector2(v2.x, 3.0f);			
 				
@@ -53,6 +67,15 @@ public class Player : MonoBehaviour {
 
 		if (Input.GetKeyDown("space"))
         {
+			if(Input.GetKey("a") || Input.GetKey("d"))				
+			{
+				animator.SetTrigger("Fire_Run");	
+			}		
+			else
+			{
+				animator.SetTrigger("Fire_Idle");	
+			}
+				
 			Vector2 newv2;
 			
 			GameObject prefab = Resources.Load("Prefab/Tiro", typeof(GameObject)) as GameObject;
@@ -70,6 +93,7 @@ public class Player : MonoBehaviour {
 
 //			Debug.Log("Player Position: "+ gameObject.transform.position);
 //			Debug.Log("Projetil Position: "+ instance.transform.position);
+			
 			
 			
         }
